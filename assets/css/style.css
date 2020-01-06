@@ -1,0 +1,5 @@
+#shipping_method {
+    max-height: 350px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}

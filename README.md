@@ -1,2 +1,2 @@
-# hivecloud
-Plugin para cálculos de frete Hivecloud.
+# Hivecloud
+Plugin Wordpress/WooCommerce para cálculos de frete utilizando a plataforma da Hivecloud.
